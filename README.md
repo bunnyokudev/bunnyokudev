@@ -1,6 +1,6 @@
 ## Hi I’m @bunnyokudev 🌸
 - 👀 I’m interested in ... making meaningful projects!<br>
-- 🌱 I’m currently learning ... Electron<br>
+- 🌱 I’m currently learning ... Electron & Flask<br>
 - 💞️ I’m looking to collaborate on ... something creative and cool!<br>
 - ⚡ Fun fact: ... fav color is pink!<br>
 
